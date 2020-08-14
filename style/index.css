@@ -16,12 +16,24 @@ body{
     width: 3rem;
 }
 
+
+.logo-title{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
 .navdark{
     background-color: #000000!important;
     color: #FFF;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 0.8rem;
     padding: 12px;
+}
+
+i{
+    padding: 10px;
 }
 
 .jumbotron{
